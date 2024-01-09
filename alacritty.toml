@@ -1,0 +1,11 @@
+[font]
+size = 18.0
+
+[font.normal]
+family = 'JetBrainsMono Nerd Font'
+
+[window]
+startup_mode = "Windowed"
+dynamic_padding = true
+opacity = 0.8
+blur = true
